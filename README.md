@@ -4,7 +4,7 @@ A growing collection of my computational neuroscience coursework, experiments, a
 
 I'm currently working through the **Neuromatch Academy Computational Neuroscience** curriculum while building my foundations in neuroscience, Python, statistics, and computational modelling.
 
-My background is in **UX and interaction design**, and I'm particularly interested in questions at the intersection of cognition, computation, and human experience — especially how the brain makes sense of complex, real-world information.
+My background is in **UX and interaction design**, and I'm particularly interested in questions at the intersection of cognition, computation, and human experience, especially how the brain makes sense of complex, real-world information.
 
 ## What I'm exploring
 
